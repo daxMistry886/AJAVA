@@ -1,4 +1,4 @@
-import java.awt.*;
+importimportimportimportimportimportimportimport java.awt.*;
 import java.awt.event.*;
 
 class pra12 extends Frame implements ActionListener {
